@@ -1,6 +1,6 @@
-# Solutions to **Introduction to Algorithms** _Third Edition_
+# Asignatura de **Electrodinámica Clásica** del _Grado en Ciencias Físicas_ de la _Universidad Complutense de Madrid_
 
-## Getting Started
+## Proemio
 
 This **[website](https://walkccc.github.io/CLRS/)** contains nearly complete solutions to the bible textbook - [**Introduction to Algorithms** _Third Edition_](https://mitpress.mit.edu/books/introduction-algorithms-third-edition), published by [Thomas H. Cormen](https://mitpress.mit.edu/contributors/thomas-h-cormen), [Charles E. Leiserson](https://mitpress.mit.edu/contributors/charles-e-leiserson), [Ronald L. Rivest](https://mitpress.mit.edu/contributors/ronald-l-rivest), and [Clifford Stein](https://mitpress.mit.edu/contributors/clifford-stein).
 
