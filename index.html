@@ -4432,9 +4432,10 @@
 <p><em>"Many a little makes a mickle."</em></p>
 <h2 id="contributors">Contributors</h2>
 <p>Thanks to:</p>
-		var html = katex.renderToString("c = \\pm\\sqrt{a^2 + b^2}", {
-    throwOnError: false
-});
+	<span id="mykatex1">...</span>
+<script>
+katex.render("f(a,b,c) = (a^2+b^2+c^2)^3", mykatex1);
+</script> 
 <ul>
 <li>The authors of <a href="https://sites.math.rutgers.edu/~ajl213/CLRS/CLRS.html">CLRS Solutions</a>: <a href="mailto:chellebodnar@gmail.com">Michelle Bodnar</a>, who writes the even number problems and <a href="mailto:Andrew.Lohr@gmail.com">Andrew Lohr</a> who writes the odd number problems.</li>
 <li><a href="https://github.com/skanev">@skanev</a>, <a href="https://github.com/CyberZHG">@CyberZHG</a>, <a href="https://github.com/yinyanghu">@yinyanghu</a>, etc.</li>
